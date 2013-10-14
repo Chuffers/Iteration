@@ -1,2 +1,2 @@
-for count in range(10):
-    print("Hello")
+for count in range(5):
+    print("Hello world")
